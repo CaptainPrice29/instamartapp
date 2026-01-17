@@ -120,3 +120,14 @@
 2026-01-16 16:55:34 DEBUG o.s.security.web.FilterChainProxy - Secured GET /products?page=1&size=2
 2026-01-16 17:03:29 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products/create
 2026-01-16 17:03:29 DEBUG o.s.security.web.FilterChainProxy - Secured POST /products/create
+2026-01-16 17:03:40 INFO  c.i.i.InstamartappApplication - Starting InstamartappApplication using Java 25.0.1 with PID 10284 (D:\CODING\INSTA_MART_APP\instamartapp\target\classes started by razaa in D:\CODING\INSTA_MART_APP\instamartapp)
+2026-01-16 17:03:40 DEBUG c.i.i.InstamartappApplication - Running with Spring Boot v3.5.9, Spring v6.2.15
+2026-01-16 17:03:40 INFO  c.i.i.InstamartappApplication - The following 1 profile is active: "dev"
+2026-01-16 17:03:41 DEBUG c.i.i.auth.security.AuthTokenFilter - Filter 'authTokenFilter' configured for use
+2026-01-16 17:03:41 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2026-01-16 17:03:41 DEBUG o.s.s.web.DefaultSecurityFilterChain - Will secure any request with filters: DisableEncodeUrlFilter, WebAsyncManagerIntegrationFilter, SecurityContextHolderFilter, HeaderWriterFilter, LogoutFilter, AuthTokenFilter, RequestCacheAwareFilter, SecurityContextHolderAwareRequestFilter, AnonymousAuthenticationFilter, SessionManagementFilter, ExceptionTranslationFilter, AuthorizationFilter
+2026-01-16 17:03:42 INFO  c.i.i.InstamartappApplication - Started InstamartappApplication in 1.989 seconds (process running for 2.428)
+2026-01-16 17:03:47 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products/create
+2026-01-16 17:03:47 DEBUG o.s.security.web.FilterChainProxy - Secured POST /products/create
+2026-01-16 17:03:59 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products/create
+2026-01-16 17:03:59 DEBUG o.s.security.web.FilterChainProxy - Secured POST /products/create
