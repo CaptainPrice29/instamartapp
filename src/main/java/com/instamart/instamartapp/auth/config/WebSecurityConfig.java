@@ -41,8 +41,8 @@ public class WebSecurityConfig {
     public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
         http.csrf(csrf -> csrf.disable())
                 .sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
-                .authorizeHttpRequests(auth -> auth.requestMatchers("/api/auth/**").permitAll()
-                        .requestMatchers("/api/test/**").permitAll()
+                .authorizeHttpRequests(auth -> auth.requestMatchers("/api/auth/login").permitAll()
+                        // .requestMatchers("/api/products/**").permitAll()
                         // .requestMatchers("/api/test/**").hasAnyRole("USER", "ADMIN")
                         .anyRequest().authenticated());
 

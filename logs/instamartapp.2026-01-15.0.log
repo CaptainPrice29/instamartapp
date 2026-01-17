@@ -1,0 +1,239 @@
+2026-01-15 11:56:32 INFO  c.i.i.InstamartappApplication - Starting InstamartappApplication using Java 25.0.1 with PID 8312 (D:\CODING\INSTA_MART_APP\instamartapp\target\classes started by razaa in D:\CODING\INSTA_MART_APP\instamartapp)
+2026-01-15 11:56:32 DEBUG c.i.i.InstamartappApplication - Running with Spring Boot v3.5.9, Spring v6.2.15
+2026-01-15 11:56:32 INFO  c.i.i.InstamartappApplication - The following 1 profile is active: "dev"
+2026-01-15 11:56:33 DEBUG c.i.i.auth.security.AuthTokenFilter - Filter 'authTokenFilter' configured for use
+2026-01-15 11:56:34 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2026-01-15 11:56:34 DEBUG o.s.s.web.DefaultSecurityFilterChain - Will secure any request with filters: DisableEncodeUrlFilter, WebAsyncManagerIntegrationFilter, SecurityContextHolderFilter, HeaderWriterFilter, LogoutFilter, AuthTokenFilter, RequestCacheAwareFilter, SecurityContextHolderAwareRequestFilter, AnonymousAuthenticationFilter, SessionManagementFilter, ExceptionTranslationFilter, AuthorizationFilter
+2026-01-15 11:56:34 INFO  c.i.i.InstamartappApplication - Started InstamartappApplication in 2.515 seconds (process running for 3.098)
+2026-01-15 11:58:37 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products
+2026-01-15 11:58:37 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 11:58:37 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 11:58:37 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 11:58:37 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 11:58:37 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 11:58:46 DEBUG o.s.security.web.FilterChainProxy - Securing GET /api/test/all
+2026-01-15 11:58:46 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 11:58:46 DEBUG o.s.security.web.FilterChainProxy - Secured GET /api/test/all
+2026-01-15 11:59:04 DEBUG o.s.security.web.FilterChainProxy - Securing POST /api/auth/login
+2026-01-15 11:59:04 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 11:59:04 DEBUG o.s.security.web.FilterChainProxy - Secured POST /api/auth/login
+2026-01-15 11:59:04 DEBUG o.s.s.a.d.DaoAuthenticationProvider - Authenticated user
+2026-01-15 11:59:25 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products
+2026-01-15 11:59:25 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 11:59:25 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 11:59:25 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 11:59:25 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 11:59:25 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:06:52 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products
+2026-01-15 18:06:52 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:06:52 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:06:52 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:06:52 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:06:52 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:07:20 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products
+2026-01-15 18:07:20 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:07:20 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:07:20 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:07:20 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:07:20 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:07:53 INFO  c.i.i.InstamartappApplication - Starting InstamartappApplication using Java 25.0.1 with PID 25388 (D:\CODING\INSTA_MART_APP\instamartapp\target\classes started by razaa in D:\CODING\INSTA_MART_APP\instamartapp)
+2026-01-15 18:07:53 DEBUG c.i.i.InstamartappApplication - Running with Spring Boot v3.5.9, Spring v6.2.15
+2026-01-15 18:07:53 INFO  c.i.i.InstamartappApplication - The following 1 profile is active: "dev"
+2026-01-15 18:07:55 DEBUG c.i.i.auth.security.AuthTokenFilter - Filter 'authTokenFilter' configured for use
+2026-01-15 18:07:55 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2026-01-15 18:07:55 DEBUG o.s.s.web.DefaultSecurityFilterChain - Will secure any request with filters: DisableEncodeUrlFilter, WebAsyncManagerIntegrationFilter, SecurityContextHolderFilter, HeaderWriterFilter, LogoutFilter, AuthTokenFilter, RequestCacheAwareFilter, SecurityContextHolderAwareRequestFilter, AnonymousAuthenticationFilter, SessionManagementFilter, ExceptionTranslationFilter, AuthorizationFilter
+2026-01-15 18:07:55 INFO  c.i.i.InstamartappApplication - Started InstamartappApplication in 2.146 seconds (process running for 2.643)
+2026-01-15 18:08:10 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products
+2026-01-15 18:08:10 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:08:10 DEBUG o.s.security.web.FilterChainProxy - Secured POST /products
+2026-01-15 18:08:10 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:08:10 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:08:10 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:09:07 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products
+2026-01-15 18:09:07 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:09:07 DEBUG o.s.security.web.FilterChainProxy - Secured POST /products
+2026-01-15 18:09:07 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:09:07 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:09:07 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:09:12 DEBUG o.s.security.web.FilterChainProxy - Securing GET /api/test/all
+2026-01-15 18:09:12 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:09:12 DEBUG o.s.security.web.FilterChainProxy - Secured GET /api/test/all
+2026-01-15 18:09:19 DEBUG o.s.security.web.FilterChainProxy - Securing POST /api/auth/login
+2026-01-15 18:09:19 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:09:19 DEBUG o.s.security.web.FilterChainProxy - Secured POST /api/auth/login
+2026-01-15 18:09:19 DEBUG o.s.s.a.d.DaoAuthenticationProvider - Authenticated user
+2026-01-15 18:10:02 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products
+2026-01-15 18:10:02 DEBUG o.s.security.web.FilterChainProxy - Secured POST /products
+2026-01-15 18:10:02 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:10:02 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:10:02 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:12:38 DEBUG o.s.security.web.FilterChainProxy - Securing POST /api/test/user
+2026-01-15 18:12:38 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:12:38 DEBUG o.s.security.web.FilterChainProxy - Secured POST /api/test/user
+2026-01-15 18:12:38 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:12:38 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:12:38 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:12:45 DEBUG o.s.security.web.FilterChainProxy - Securing GET /api/test/user
+2026-01-15 18:12:45 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:12:45 DEBUG o.s.security.web.FilterChainProxy - Secured GET /api/test/user
+2026-01-15 18:12:45 DEBUG o.s.s.a.m.AuthorizationManagerBeforeMethodInterceptor - Authorizing method invocation ReflectiveMethodInvocation: public java.lang.String com.instamart.instamartapp.auth.controller.TestController.userAccess(); target is of class [com.instamart.instamartapp.auth.controller.TestController]
+2026-01-15 18:12:45 DEBUG o.s.s.a.m.AuthorizationManagerBeforeMethodInterceptor - Failed to authorize ReflectiveMethodInvocation: public java.lang.String com.instamart.instamartapp.auth.controller.TestController.userAccess(); target is of class [com.instamart.instamartapp.auth.controller.TestController] with authorization manager org.springframework.security.authorization.ObservationAuthorizationManager@7a772b2 and result ExpressionAuthorizationDecision [granted=false, expressionAttribute=hasRole('USER') or hasRole('ADMIN')]
+2026-01-15 18:12:45 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:12:45 DEBUG o.s.security.web.FilterChainProxy - Securing GET /error
+2026-01-15 18:12:45 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:12:45 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:12:58 DEBUG o.s.security.web.FilterChainProxy - Securing GET /api/test/all
+2026-01-15 18:12:58 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:12:58 DEBUG o.s.security.web.FilterChainProxy - Secured GET /api/test/all
+2026-01-15 18:14:12 DEBUG o.s.security.web.FilterChainProxy - Securing GET /api/test/all
+2026-01-15 18:14:12 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:14:12 DEBUG o.s.security.web.FilterChainProxy - Secured GET /api/test/all
+2026-01-15 18:14:20 DEBUG o.s.security.web.FilterChainProxy - Securing GET /api/test/user
+2026-01-15 18:14:20 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:14:20 DEBUG o.s.security.web.FilterChainProxy - Secured GET /api/test/user
+2026-01-15 18:14:20 DEBUG o.s.s.a.m.AuthorizationManagerBeforeMethodInterceptor - Authorizing method invocation ReflectiveMethodInvocation: public java.lang.String com.instamart.instamartapp.auth.controller.TestController.userAccess(); target is of class [com.instamart.instamartapp.auth.controller.TestController]
+2026-01-15 18:14:20 DEBUG o.s.s.a.m.AuthorizationManagerBeforeMethodInterceptor - Failed to authorize ReflectiveMethodInvocation: public java.lang.String com.instamart.instamartapp.auth.controller.TestController.userAccess(); target is of class [com.instamart.instamartapp.auth.controller.TestController] with authorization manager org.springframework.security.authorization.ObservationAuthorizationManager@7a772b2 and result ExpressionAuthorizationDecision [granted=false, expressionAttribute=hasRole('USER') or hasRole('ADMIN')]
+2026-01-15 18:14:20 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:14:20 DEBUG o.s.security.web.FilterChainProxy - Securing GET /error
+2026-01-15 18:14:20 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:14:20 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:15:23 DEBUG o.s.security.web.FilterChainProxy - Securing GET /api/test/user
+2026-01-15 18:15:23 DEBUG o.s.security.web.FilterChainProxy - Secured GET /api/test/user
+2026-01-15 18:15:23 DEBUG o.s.s.a.m.AuthorizationManagerBeforeMethodInterceptor - Authorizing method invocation ReflectiveMethodInvocation: public java.lang.String com.instamart.instamartapp.auth.controller.TestController.userAccess(); target is of class [com.instamart.instamartapp.auth.controller.TestController]
+2026-01-15 18:15:23 DEBUG o.s.s.a.m.AuthorizationManagerBeforeMethodInterceptor - Authorized method invocation ReflectiveMethodInvocation: public java.lang.String com.instamart.instamartapp.auth.controller.TestController.userAccess(); target is of class [com.instamart.instamartapp.auth.controller.TestController]
+2026-01-15 18:15:59 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products
+2026-01-15 18:15:59 DEBUG o.s.security.web.FilterChainProxy - Secured POST /products
+2026-01-15 18:15:59 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:15:59 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:15:59 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:16:23 DEBUG o.s.security.web.FilterChainProxy - Securing GET /product
+2026-01-15 18:16:23 DEBUG o.s.security.web.FilterChainProxy - Secured GET /product
+2026-01-15 18:16:23 DEBUG o.s.security.web.FilterChainProxy - Securing GET /error
+2026-01-15 18:16:23 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:16:23 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:16:27 DEBUG o.s.security.web.FilterChainProxy - Securing GET /products
+2026-01-15 18:16:27 DEBUG o.s.security.web.FilterChainProxy - Secured GET /products
+2026-01-15 18:16:27 DEBUG o.s.security.web.FilterChainProxy - Securing GET /error
+2026-01-15 18:16:27 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:16:27 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:16:33 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products
+2026-01-15 18:16:33 DEBUG o.s.security.web.FilterChainProxy - Secured POST /products
+2026-01-15 18:16:33 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:16:33 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:16:33 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:16:36 DEBUG o.s.security.web.FilterChainProxy - Securing POST /product
+2026-01-15 18:16:36 DEBUG o.s.security.web.FilterChainProxy - Secured POST /product
+2026-01-15 18:16:36 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:16:36 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:16:36 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:17:28 DEBUG o.s.security.web.FilterChainProxy - Securing POST /product
+2026-01-15 18:17:28 DEBUG o.s.security.web.FilterChainProxy - Secured POST /product
+2026-01-15 18:17:28 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:17:28 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:17:28 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:18:56 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products
+2026-01-15 18:18:56 DEBUG o.s.security.web.FilterChainProxy - Secured POST /products
+2026-01-15 18:18:56 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:18:56 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:18:56 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:19:34 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products
+2026-01-15 18:19:34 DEBUG o.s.security.web.FilterChainProxy - Secured POST /products
+2026-01-15 18:19:34 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:19:34 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:19:34 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:20:51 DEBUG o.s.security.web.FilterChainProxy - Securing POST /api/products/create
+2026-01-15 18:20:51 DEBUG o.s.security.web.FilterChainProxy - Secured POST /api/products/create
+2026-01-15 18:20:51 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:20:51 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:20:51 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:22:19 DEBUG o.s.security.web.FilterChainProxy - Securing POST /api/auth/register
+2026-01-15 18:22:19 DEBUG o.s.security.web.FilterChainProxy - Secured POST /api/auth/register
+2026-01-15 18:22:28 DEBUG o.s.security.web.FilterChainProxy - Securing POST /api/auth/register
+2026-01-15 18:22:28 DEBUG o.s.security.web.FilterChainProxy - Secured POST /api/auth/register
+2026-01-15 18:22:52 DEBUG o.s.security.web.FilterChainProxy - Securing POST /api/auth/register
+2026-01-15 18:22:52 DEBUG o.s.security.web.FilterChainProxy - Secured POST /api/auth/register
+2026-01-15 18:23:01 DEBUG o.s.security.web.FilterChainProxy - Securing POST /api/auth/register
+2026-01-15 18:23:01 DEBUG o.s.security.web.FilterChainProxy - Secured POST /api/auth/register
+2026-01-15 18:23:27 DEBUG o.s.security.web.FilterChainProxy - Securing POST /api/auth/register
+2026-01-15 18:23:27 DEBUG o.s.security.web.FilterChainProxy - Secured POST /api/auth/register
+2026-01-15 18:24:04 DEBUG o.s.security.web.FilterChainProxy - Securing POST /api/auth/register
+2026-01-15 18:24:04 DEBUG o.s.security.web.FilterChainProxy - Secured POST /api/auth/register
+2026-01-15 18:25:28 DEBUG o.s.security.web.FilterChainProxy - Securing POST /api/products/create
+2026-01-15 18:25:28 DEBUG o.s.security.web.FilterChainProxy - Secured POST /api/products/create
+2026-01-15 18:25:28 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:25:28 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:25:28 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:26:09 DEBUG o.s.security.web.FilterChainProxy - Securing POST /api/products/create
+2026-01-15 18:26:09 DEBUG o.s.security.web.FilterChainProxy - Secured POST /api/products/create
+2026-01-15 18:26:09 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:26:09 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:26:09 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:27:09 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products
+2026-01-15 18:27:09 DEBUG o.s.security.web.FilterChainProxy - Secured POST /products
+2026-01-15 18:27:09 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:27:09 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:27:09 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:27:29 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products
+2026-01-15 18:27:29 DEBUG o.s.security.web.FilterChainProxy - Secured POST /products
+2026-01-15 18:27:29 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:27:29 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:27:29 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:27:48 DEBUG o.s.security.web.FilterChainProxy - Securing GET /products/?id=208397a8-35d0-4510-98dc-507d5ab42d8a&vscodeBrowserReqId=1768481868903
+2026-01-15 18:27:48 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:27:48 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:27:48 DEBUG o.s.security.web.FilterChainProxy - Securing GET /error?id=208397a8-35d0-4510-98dc-507d5ab42d8a&vscodeBrowserReqId=1768481868903
+2026-01-15 18:27:48 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:27:48 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:28:30 DEBUG o.s.security.web.FilterChainProxy - Securing POST /api/products/create
+2026-01-15 18:28:30 DEBUG o.s.security.web.FilterChainProxy - Secured POST /api/products/create
+2026-01-15 18:28:30 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:28:30 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:28:30 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:28:42 DEBUG o.s.security.web.FilterChainProxy - Securing GET /api/test/all
+2026-01-15 18:28:42 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:28:42 DEBUG o.s.security.web.FilterChainProxy - Secured GET /api/test/all
+2026-01-15 18:29:01 DEBUG o.s.security.web.FilterChainProxy - Securing GET /api/test/user
+2026-01-15 18:29:01 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:29:01 DEBUG o.s.security.web.FilterChainProxy - Secured GET /api/test/user
+2026-01-15 18:29:01 DEBUG o.s.s.a.m.AuthorizationManagerBeforeMethodInterceptor - Authorizing method invocation ReflectiveMethodInvocation: public java.lang.String com.instamart.instamartapp.auth.controller.TestController.userAccess(); target is of class [com.instamart.instamartapp.auth.controller.TestController]
+2026-01-15 18:29:01 DEBUG o.s.s.a.m.AuthorizationManagerBeforeMethodInterceptor - Failed to authorize ReflectiveMethodInvocation: public java.lang.String com.instamart.instamartapp.auth.controller.TestController.userAccess(); target is of class [com.instamart.instamartapp.auth.controller.TestController] with authorization manager org.springframework.security.authorization.ObservationAuthorizationManager@7a772b2 and result ExpressionAuthorizationDecision [granted=false, expressionAttribute=hasRole('USER') or hasRole('ADMIN')]
+2026-01-15 18:29:01 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:29:01 DEBUG o.s.security.web.FilterChainProxy - Securing GET /error
+2026-01-15 18:29:01 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:29:01 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:29:07 DEBUG o.s.security.web.FilterChainProxy - Securing GET /api/test/user
+2026-01-15 18:29:07 DEBUG o.s.security.web.FilterChainProxy - Secured GET /api/test/user
+2026-01-15 18:29:07 DEBUG o.s.s.a.m.AuthorizationManagerBeforeMethodInterceptor - Authorizing method invocation ReflectiveMethodInvocation: public java.lang.String com.instamart.instamartapp.auth.controller.TestController.userAccess(); target is of class [com.instamart.instamartapp.auth.controller.TestController]
+2026-01-15 18:29:07 DEBUG o.s.s.a.m.AuthorizationManagerBeforeMethodInterceptor - Authorized method invocation ReflectiveMethodInvocation: public java.lang.String com.instamart.instamartapp.auth.controller.TestController.userAccess(); target is of class [com.instamart.instamartapp.auth.controller.TestController]
+2026-01-15 18:29:24 DEBUG o.s.security.web.FilterChainProxy - Securing GET /api/test/user
+2026-01-15 18:29:24 DEBUG o.s.security.web.FilterChainProxy - Secured GET /api/test/user
+2026-01-15 18:29:24 DEBUG o.s.s.a.m.AuthorizationManagerBeforeMethodInterceptor - Authorizing method invocation ReflectiveMethodInvocation: public java.lang.String com.instamart.instamartapp.auth.controller.TestController.userAccess(); target is of class [com.instamart.instamartapp.auth.controller.TestController]
+2026-01-15 18:29:24 DEBUG o.s.s.a.m.AuthorizationManagerBeforeMethodInterceptor - Authorized method invocation ReflectiveMethodInvocation: public java.lang.String com.instamart.instamartapp.auth.controller.TestController.userAccess(); target is of class [com.instamart.instamartapp.auth.controller.TestController]
+2026-01-15 18:29:29 DEBUG o.s.security.web.FilterChainProxy - Securing POST /api/products/create
+2026-01-15 18:29:29 DEBUG o.s.security.web.FilterChainProxy - Secured POST /api/products/create
+2026-01-15 18:29:29 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:29:29 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:29:29 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:30:16 INFO  c.i.i.InstamartappApplication - Starting InstamartappApplication using Java 25.0.1 with PID 24792 (D:\CODING\INSTA_MART_APP\instamartapp\target\classes started by razaa in D:\CODING\INSTA_MART_APP\instamartapp)
+2026-01-15 18:30:16 DEBUG c.i.i.InstamartappApplication - Running with Spring Boot v3.5.9, Spring v6.2.15
+2026-01-15 18:30:16 INFO  c.i.i.InstamartappApplication - The following 1 profile is active: "dev"
+2026-01-15 18:30:17 DEBUG c.i.i.auth.security.AuthTokenFilter - Filter 'authTokenFilter' configured for use
+2026-01-15 18:30:17 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2026-01-15 18:30:17 DEBUG o.s.s.web.DefaultSecurityFilterChain - Will secure any request with filters: DisableEncodeUrlFilter, WebAsyncManagerIntegrationFilter, SecurityContextHolderFilter, HeaderWriterFilter, LogoutFilter, AuthTokenFilter, RequestCacheAwareFilter, SecurityContextHolderAwareRequestFilter, AnonymousAuthenticationFilter, SessionManagementFilter, ExceptionTranslationFilter, AuthorizationFilter
+2026-01-15 18:30:18 INFO  c.i.i.InstamartappApplication - Started InstamartappApplication in 2.135 seconds (process running for 2.627)
+2026-01-15 18:30:25 DEBUG o.s.security.web.FilterChainProxy - Securing POST /api/products/create
+2026-01-15 18:30:25 DEBUG o.s.security.web.FilterChainProxy - Secured POST /api/products/create
+2026-01-15 18:32:13 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products/create
+2026-01-15 18:32:13 DEBUG o.s.security.web.FilterChainProxy - Secured POST /products/create
+2026-01-15 18:32:13 DEBUG o.s.security.web.FilterChainProxy - Securing POST /error
+2026-01-15 18:32:13 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2026-01-15 18:32:13 DEBUG o.s.s.w.a.Http403ForbiddenEntryPoint - Pre-authenticated entry point called. Rejecting access
+2026-01-15 18:32:39 INFO  c.i.i.InstamartappApplication - Starting InstamartappApplication using Java 25.0.1 with PID 8864 (D:\CODING\INSTA_MART_APP\instamartapp\target\classes started by razaa in D:\CODING\INSTA_MART_APP\instamartapp)
+2026-01-15 18:32:39 DEBUG c.i.i.InstamartappApplication - Running with Spring Boot v3.5.9, Spring v6.2.15
+2026-01-15 18:32:39 INFO  c.i.i.InstamartappApplication - The following 1 profile is active: "dev"
+2026-01-15 18:32:40 DEBUG c.i.i.auth.security.AuthTokenFilter - Filter 'authTokenFilter' configured for use
+2026-01-15 18:32:40 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2026-01-15 18:32:41 DEBUG o.s.s.web.DefaultSecurityFilterChain - Will secure any request with filters: DisableEncodeUrlFilter, WebAsyncManagerIntegrationFilter, SecurityContextHolderFilter, HeaderWriterFilter, LogoutFilter, AuthTokenFilter, RequestCacheAwareFilter, SecurityContextHolderAwareRequestFilter, AnonymousAuthenticationFilter, SessionManagementFilter, ExceptionTranslationFilter, AuthorizationFilter
+2026-01-15 18:32:41 INFO  c.i.i.InstamartappApplication - Started InstamartappApplication in 2.216 seconds (process running for 2.669)
+2026-01-15 18:32:45 DEBUG o.s.security.web.FilterChainProxy - Securing POST /products/create
+2026-01-15 18:32:45 DEBUG o.s.security.web.FilterChainProxy - Secured POST /products/create
